@@ -24,7 +24,7 @@ Options:
 
 # Example output
 ~~~
-$ cat compact_version-waldirio-charter-support.csv 
+$ cat compact_version-rhn-support-wpinheir.csv 
 id,server,reporter,arch,core_per_sockets,infrastructure.type,number_of_cpus,number_of_socket,satellite_managed,subscription_status,satellite_id,hypervisor
 4e42190e-de97-4f7b-a119-e0efcc40589a,vm001.local.domain,puptoo,x86_64,1,virtual,8,8,False,no subscription status key,,No hypervisor
 4914e435-d49e-4f7f-8fac-73614141824c,vm007.local.domain,puptoo,x86_64,1,virtual,8,8,False,no subscription status key,,No hypervisor
